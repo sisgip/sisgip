@@ -74,8 +74,27 @@
     {{ end }}
     <!-- /Features -->
 
+    <!-- Pitch -->
+    <section class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <h2 class="mb-4">Confira o nosso Pitch</h2>
+          </div>
+          <div class="col-12 d-flex justify-content-center align-items-center">
+            <iframe
+              style="margin: 0 auto; width: inherit; height: 520px;"
+              src="https://www.youtube.com/embed/ThvR_zoGcMQ"
+              frameborder="0"
+              allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Pitch -->
+
     <!-- Testimonials -->
-    {{ with site.GetPage "sections/testimonial" }}
+    <!-- {{ with site.GetPage "sections/testimonial" }}
       {{ if .Params.enable }}
         <section class="section">
           <div class="container">
@@ -136,7 +155,7 @@
           </div>
         </section>
       {{ end }}
-    {{ end }}
+    {{ end }} -->
     <!-- /Testimonials -->
   {{ end }}
 {{ end }}

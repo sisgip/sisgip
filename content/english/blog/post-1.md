@@ -3,21 +3,27 @@ title: "Como tornar o email do GitHub Público"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/public-github.png"
 categories: ["Aplicação", "Github"]
 author: "SISGPI"
 tags: ["github", "projeto"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Saiba como tornar seu email do Github público para desfrutar totalmente do sistema.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+O primeiro passo é acessar as configurações de sua conta indo no topo superior direito e depois em Settings.
 
-## Creative Design
+<!-- ![Primeiro passo](/images/g1.png) -->
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Nas configurações da conta, acesse a opção Emails, e desmarque a opção Keep my email address private.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+<!-- ![Segundo passo](/assets/images/g2.png) -->
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Ao desabilitar essa opção as configurações vão ser salvas automaticamente. Volte para a opção Profile e selecione o seu e-mail na opção Public email, salvando as configurações em Update profile.
+
+![Terceiro Passo](/images/public-github.png)
+
+Pronto! Após salvar as configurações seu e-mail vai estar público, e você vai conseguir conectar na Umbler através de sua conta do GitHub.
+
+Fonte: [Umbler Tutoriais](https://help.umbler.com/hc/pt-br/articles/360007180671-Tornando-seu-e-mail-p%C3%BAblico-no-GitHub)
