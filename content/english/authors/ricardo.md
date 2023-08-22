@@ -1,6 +1,6 @@
 ---
-title: Adicineia Aparecida
-email: adicineia@ufs.br
+title: Ricardo Salgueiro
+email:
 image: "/images/sispi-nobg.png"
 description: this is meta description
 social:
