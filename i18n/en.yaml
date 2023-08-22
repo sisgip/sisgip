@@ -1,0 +1,32 @@
+- id: home
+  translation: Home
+
+- id: read_more
+  translation: Ler mais
+
+- id: send
+  translation: Enviar
+
+- id: related_posts
+  translation: Postagens Relacionadas
+
+- id: categories
+  translation: Categorias
+
+- id: tags
+  translation: Tags
+
+- id: toc
+  translation: Tabela de Conteúdos
+
+- id: share
+  translation: Compartilhar
+
+- id: search_input_placeholder
+  translation: Procurar postagem ...
+
+- id: no_results_for
+  translation: Sem resultados para
+
+- id: empty_search_results_placeholder
+  translation: Digite algo para pesquisar...
