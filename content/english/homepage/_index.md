@@ -26,8 +26,8 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Módulo exclusivo de Avaliação por Pares"
-    image: "/images/service-2.png"
+  - title: "Avaliação por Pares"
+    image: "/images/aval360.png"
     content: "Contamos com um diferencial no mercado, que é o Módulo de Avaliações, onde o desenvolvedor pode avaliar os membros da sua equipe, ser avaliado, acompanhar sua evolução e desempenho."
     # bulletpoints:
     #   - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
