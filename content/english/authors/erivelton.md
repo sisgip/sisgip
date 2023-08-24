@@ -1,7 +1,7 @@
 ---
 title: Erivelton Santos
 email: oficial.erivas@gmail.com
-image: "/images/erivelton.jfif"
+image: "/images/erivelton.png"
 description: this is meta description
 social:
   - name: github

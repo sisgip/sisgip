@@ -32,9 +32,11 @@
 
     <!-- Features -->
     {{ range $i, $e:= .Params.features }}
-      <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
+      <section class="section-sm {{ if (modBool $i 2) }}bg-white{{ end }}">
         <div class="container">
-          <div class="row items-center justify-between">
+          <div
+            class="row items-center justify-between"
+            {{ if (modBool $i 2) }}style="color: #004984;"{{ end }}>
             <div
               class="mb:md-0 {{ if not (modBool $i 2) }}
                 md:order-2
@@ -45,7 +47,9 @@
               class="{{ if not (modBool $i 2) }}
                 md:order-1
               {{ end }} md:col-7 lg:col-6">
-              <h2 class="mb-4">
+              <h2
+                class="mb-4"
+                {{ if (modBool $i 2) }}style="color: #004984;"{{ end }}>
                 {{ .title | markdownify }}
               </h2>
               <p class="mb-8 text-lg">
@@ -59,6 +63,9 @@
                   </li>
                 {{ end }}
               </ul>
+              <p class="mb-8 text-lg">
+                {{ .description | markdownify }}
+              </p>
               {{ with .button }}
                 {{ if .enable }}
                   <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
@@ -94,7 +101,7 @@
     <!-- Pitch -->
 
     <!-- Testimonials -->
-    <!-- {{ with site.GetPage "sections/testimonial" }}
+    {{ with site.GetPage "sections/testimonial" }}
       {{ if .Params.enable }}
         <section class="section">
           <div class="container">
@@ -155,7 +162,7 @@
           </div>
         </section>
       {{ end }}
-    {{ end }} -->
+    {{ end }}
     <!-- /Testimonials -->
   {{ end }}
 {{ end }}
