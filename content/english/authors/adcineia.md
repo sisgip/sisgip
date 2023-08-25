@@ -1,7 +1,7 @@
 ---
-title: Adicineia Aparecida
+title: Drª. Adicineia Aparecida
 email: adicineia@ufs.br
-image: "/images/sispi-nobg.png"
+image: "/images/adcineia.jpeg"
 description: this is meta description
 social:
   # - name: github

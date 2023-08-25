@@ -1,7 +1,7 @@
 ---
-title: Edilayne Meneses
+title: Drª. Edilayne Meneses
 email:
-image: "/images/sispi-nobg.png"
+image: "/images/edilayne.jpg"
 description: this is meta description
 social:
   # - name: github

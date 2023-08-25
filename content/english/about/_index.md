@@ -4,13 +4,15 @@ meta_title: "Sobre"
 description: ""
 image: "/images/sispi-nobg.png"
 draft: false
+logo_dcomp: "/images/logo_dcomp.png"
+logo_ufs: "/images/ufs.png"
 ---
 
 O SISGPI - Sistema de Gestão de Projetos Integrados fornece uma solução web que agrega funcionalidades na área de gerenciamento de projetos e equipes, trazendo em uma só plataforma serviços que antes eram realizados de maneira dispersa.
 
 O software atende a diversos tipos de usuários, indo do desenvolvedor ao scrum master, e permite realizar algumas ações como criação e alocação de equipes, projetos, tarefas e sprints, tudo de forma integrada com o Github. Além disso, é possível realizar avaliações personalizadas e acompanhar evoluções e desempenhos individualmente.
 
-<svg version="1.1" viewBox="0 0 646.67 301.33" xmlns="http://www.w3.org/2000/svg">
+<!-- <svg version="1.1" viewBox="0 0 646.67 301.33" xmlns="http://www.w3.org/2000/svg">
 <g transform="matrix(1.3333 0 0 -1.3333 0 301.33)">
 <g transform="scale(.1)">
 <g transform="scale(10)">
@@ -165,4 +167,4 @@ O software atende a diversos tipos de usuários, indo do desenvolvedor ao scrum 
 <path d="m1210 849.6-15.39-19.532 2.5-2.109z" fill="#fff" fill-rule="evenodd"/>
 </g>
 </g>
-</svg>
+</svg> -->

@@ -6,6 +6,10 @@
           {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "mx-auto mb-6" "Size" "200x200") }}
           <h2 class="h3 mb-6">{{ .Title }}</h2>
           <div class="content">{{ .Content }}</div>
+          <div class="flex justify-center space-x-6">
+            {{ partial "image" (dict "Src" .Params.logo_dcomp "Alt" .Title "Class" "mx-auto mb-6" "Size" "400x200" ) }}
+            {{ partial "image" (dict "Src" .Params.logo_ufs "Alt" .Title "Class" "mx-auto mb-6" "Size" "200x200" ) }}
+          </div>
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 ---
-title: Ricardo Salgueiro
+title: Dr. Ricardo Salgueiro
 email:
-image: "/images/sispi-nobg.png"
+image: "/images/ricardo.jpg"
 description: this is meta description
 social:
   # - name: github
