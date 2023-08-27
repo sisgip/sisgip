@@ -27,7 +27,7 @@ features:
       link: "#"
 
   - title: "Avaliação por Pares"
-    image: "/images/aval360.png"
+    image: "/images/aval360.PNG"
     content: "Contamos com um diferencial no mercado, que é o Módulo de Avaliações, onde o desenvolvedor pode avaliar os membros da sua equipe, ser avaliado, acompanhar sua evolução e desempenho."
     button:
       enable: true
