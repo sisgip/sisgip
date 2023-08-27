@@ -2,7 +2,7 @@
 # favicon
 favicon = "images/sispi-nobg.png"
 # logo
-logo = "images/sispi-logo.png"
+logo = "images/sispi-dark.png"
 logo_darkmode = "images/sispi-logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
@@ -28,6 +28,9 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 # copyright
 copyright = "Copyright (c) 2023 - SISGPI"
+# logo dcomp
+logo_dcomp = "images/logo_dcomp_dark.png"
+logo_dcomp_darkmode = "images/logo_dcomp.png"
 
 # Preloader
 [preloader]
