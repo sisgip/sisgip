@@ -29,8 +29,8 @@ custom_script = ""
 # copyright
 copyright = "Copyright (c) 2023 - SISGPI"
 # logo dcomp
-logo_dcomp = "images/logo_dcomp_dark.png"
-logo_dcomp_darkmode = "images/logo_dcomp.png"
+logo_dcomp = "images/logo_dcomp.png"
+logo_dcomp_darkmode = "images/logo_dcomp_dark.png"
 
 # Preloader
 [preloader]

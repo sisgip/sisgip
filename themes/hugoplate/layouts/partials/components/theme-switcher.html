@@ -39,6 +39,48 @@
     var darkMode = {{if eq site.Params.theme_default "dark"}}true{{else}}false{{end}};
 
     {{ if eq site.Params.theme_default "system" }}
+    if (window.matchMedia("(prefers-color-scheme: dark)").matches){darkMode = true}
+    {{ end }}
+
+    if (localStorage.getItem("theme") === "dark"){darkMode = true}
+    else if (localStorage.getItem("theme") === "light"){darkMode = false}
+    if (darkMode){document.documentElement.classList.toggle("dark")}
+    var themeSwitch = document.querySelectorAll("[data-theme-switcher]");
+
+    function updateLogoVisibility(dark) {
+      var logo_dcomp = document.getElementById("logo_dcomp");
+      var logo_dcomp_darkmode = document.getElementById("logo_dcomp_darkmode");
+
+      if (dark) {
+        logo_dcomp.style.display = "block";
+        logo_dcomp_darkmode.style.display = "none";
+      }
+
+      if (!dark) {
+        logo_dcomp.style.display = "none";
+        logo_dcomp_darkmode.style.display = "block";
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+      [].forEach.call(themeSwitch, function (ts) {
+        ts.checked = darkMode ? true : false;
+        console.log(darkMode);
+        ts.addEventListener("click", () => {
+          updateLogoVisibility(localStorage.getItem("theme") === "dark");
+          document.documentElement.classList.toggle("dark");
+          localStorage.setItem(
+            "theme",
+            document.documentElement.classList.contains("dark") ? "dark" : "light"
+          );
+        });
+      });
+    });
+  </script>
+    <!-- <script>
+    var darkMode = {{if eq site.Params.theme_default "dark"}}true{{else}}false{{end}};
+
+    {{ if eq site.Params.theme_default "system" }}
     if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
       darkMode = true;
     }
@@ -82,7 +124,7 @@
         });
       });
     });
-  </script>
+  </script> -->
   {{ end }}
 
 {{ end }}

@@ -11,15 +11,17 @@
         </a>
         <a
           id="logo_dcomp"
-          class="navbar-brand inline-block"
-          href="{{ site.BaseURL | relLangURL }}">
-          {{ partial "image" (dict "Src" site.Params.logo_dcomp_darkmode "Size" "160x60") }}
-        </a>
-        <a
-          id="logo_dcomp_darkmode"
+          style="display: none;"
           class="navbar-brand inline-block"
           href="{{ site.BaseURL | relLangURL }}">
           {{ partial "image" (dict "Src" site.Params.logo_dcomp "Size" "160x60") }}
+        </a>
+        <a
+          id="logo_dcomp_darkmode"
+          style="display: block;"
+          class="navbar-brand inline-block"
+          href="{{ site.BaseURL | relLangURL }}">
+          {{ partial "image" (dict "Src" site.Params.logo_dcomp_darkmode "Size" "160x60") }}
         </a>
       </div>
       <div class="lg:col-6 mb-8 text-center lg:mb-0">
