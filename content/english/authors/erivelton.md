@@ -3,6 +3,7 @@ title: Erivelton Santos
 email: oficial.erivas@gmail.com
 image: "/images/erivelton.png"
 description: this is meta description
+category: desenvolvedor
 social:
   - name: github
     icon: fa-brands fa-github

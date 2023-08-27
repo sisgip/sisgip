@@ -22,7 +22,7 @@ testimonials:
 
   - name: "Vinicius Moitinho"
     designation: "Desenvolvedor VueJS"
-    avatar: "/images/vinicius.png"
+    avatar: "/images/vinicius.jpg"
     content: "Aluno e Pesquisador. Graduando em Engenharia da Computação pela Universidade Federal de Sergipe e Mestrando pela mesma. Amante de tatuagens."
 
   - name: "Larissa Vitoria"

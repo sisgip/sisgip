@@ -3,6 +3,7 @@ title: Ana Letícia Alves Silveira
 email: analelesilveira.ala@email.com
 image: "/images/leticia.jfif"
 description: this is meta description
+category: desenvolvedor
 social:
   - name: github
     icon: fa-brands fa-github

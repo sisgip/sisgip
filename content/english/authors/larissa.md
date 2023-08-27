@@ -3,6 +3,7 @@ title: Larissa Vitoria
 email: larissa.vic2508@gmail.com
 image: "/images/larissa.jfif"
 description: this is meta description
+category: desenvolvedor
 social:
   - name: github
     icon: fa-brands fa-github

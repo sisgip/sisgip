@@ -44,7 +44,7 @@ features:
       - "Transparência e Visibilidade"
     description: "A integração do SISGPI com o GitHub não apenas agiliza o gerenciamento de projetos, como cria uma experiência mais fluida e produtiva. Ganhe tempo, mantenha o foco e alcance resultados superiores com essa poderosa combinação de ferramentas."
     button:
-      enable: true
+      enable: false
       label: "Leia Mais"
       link: ""
 ---

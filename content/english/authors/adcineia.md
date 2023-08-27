@@ -3,6 +3,7 @@ title: Drª. Adicineia Aparecida
 email: adicineia@ufs.br
 image: "/images/adcineia.jpeg"
 description: this is meta description
+category: coordenacao
 social:
   # - name: github
   #   icon: fa-brands fa-github

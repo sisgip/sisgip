@@ -14,15 +14,15 @@ Saiba como tornar seu email do Github público para desfrutar totalmente do sist
 
 O primeiro passo é acessar as configurações de sua conta indo no topo superior direito e depois em Settings.
 
-<!-- ![Primeiro passo](/images/g1.png) -->
+![Primeiro passo](https://help.umbler.com/hc/article_attachments/360007447052/github1.png)
 
 Nas configurações da conta, acesse a opção Emails, e desmarque a opção Keep my email address private.
 
-<!-- ![Segundo passo](/assets/images/g2.png) -->
+![Segundo Passo](https://help.umbler.com/hc/article_attachments/360007447132/github2.png)
 
 Ao desabilitar essa opção as configurações vão ser salvas automaticamente. Volte para a opção Profile e selecione o seu e-mail na opção Public email, salvando as configurações em Update profile.
 
-![Terceiro Passo](/images/public-github.png)
+![Terceiro passo](https://help.umbler.com/hc/article_attachments/360007447652/github3.png)
 
 Pronto! Após salvar as configurações seu e-mail vai estar público, e você vai conseguir conectar na Umbler através de sua conta do GitHub.
 

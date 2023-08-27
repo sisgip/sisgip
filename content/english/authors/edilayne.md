@@ -3,6 +3,7 @@ title: Drª. Edilayne Meneses
 email:
 image: "/images/edilayne.jpg"
 description: this is meta description
+category: coordenacao
 social:
   # - name: github
   #   icon: fa-brands fa-github

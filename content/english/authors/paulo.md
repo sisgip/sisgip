@@ -3,6 +3,7 @@ title: Paulo Eduardo
 email: pauloinfba@gmail.com
 image: "/images/paulo.jfif"
 description: this is meta description
+category: desenvolvedor
 social:
   - name: github
     icon: fa-brands fa-github

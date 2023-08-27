@@ -2,10 +2,24 @@
   {{ partial "page-header" . }}
 
 
+  <section class="section" style="padding-bottom: 0px;">
+    <div class="container">
+      <div class="row">
+        <h1 style="margin-bottom: 40px;">Desenvolvedores</h1>
+        {{ range where .RegularPages "Params.category" "desenvolvedor" }}
+          <div class="md:col-6 lg:col-4 mb-14">
+            {{ partial "components/author-card" . }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
   <section class="section">
     <div class="container">
       <div class="row">
-        {{ range .RegularPages }}
+        <h1 style="margin-bottom: 40px;">Coordenação Técnica</h1>
+        {{ range where .RegularPages "Params.category" "coordenacao" }}
           <div class="md:col-6 lg:col-4 mb-14">
             {{ partial "components/author-card" . }}
           </div>

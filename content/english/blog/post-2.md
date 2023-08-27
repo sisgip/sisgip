@@ -12,4 +12,4 @@ draft: false
 
 Todos os passos para aproveitar plenamente as experiências oferecidas pelo sistema.
 
-[Click aqui](https://docs.google.com/document/d/1SuQx6DOZoZCbg60vIJyVxkBkAHOKYgSum7nY2G1G2Yk) para acessar o manual do usuário.
+O Manual do Usuário está disponível [clicando aqui](https://docs.google.com/document/d/1SuQx6DOZoZCbg60vIJyVxkBkAHOKYgSum7nY2G1G2Yk). Contate os administradores em caso de dúvidas de acesso.

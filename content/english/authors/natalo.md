@@ -3,6 +3,7 @@ title: Natalo Santos
 email: natalosantos99@gmail.com
 image: "/images/natalo.jfif"
 description: this is meta description
+category: desenvolvedor
 social:
   - name: github
     icon: fa-brands fa-github

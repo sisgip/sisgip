@@ -3,6 +3,7 @@ title: Dr. Ricardo Salgueiro
 email:
 image: "/images/ricardo.jpg"
 description: this is meta description
+category: coordenacao
 social:
   # - name: github
   #   icon: fa-brands fa-github

@@ -12,7 +12,7 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Desenvolvedores"
+name = "Colaboradores"
 url = "authors/"
 weight = 3
 
