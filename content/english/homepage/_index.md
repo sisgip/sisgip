@@ -16,11 +16,11 @@ features:
     content: "SISGPI é a solução completa para aprimorar a gestão dos seus projetos. O que o SISGPI oferece:"
     bulletpoints:
       - "Gerenciamento de projetos eficiente e integrado"
-      - "Fluxo de trabalho visual com Quadro Kanban"
-      - "Aprimoramento contínuo com Avaliação por Pares"
+      - "Fluxo de trabalho visual com quadro Kanban"
+      - "Aprimoramento contínuo com avaliação por pares"
       - "Integração com API do GitHub"
-      - "Visões de usuário adaptadas às necessidades"
-      - "Acompanhamento de Evolução e Desempenho Individual"
+      - "Visões de usuário adaptadas às necessidades do projeto"
+      - "Acompanhamento de evolução e desempenho individual"
     button:
       enable: false
       label: "Get Started Now"
@@ -36,12 +36,12 @@ features:
 
   - title: "Integração contínua com Github"
     image: "/images/integracao.gif"
-    content: "Com o SISGPI você pode unificar os seus projetos com o Poder da Integração SISGPI-GitHub"
+    content: "Com o SISGPI você pode unificar os seus projetos através da integração SISGPI-GitHub"
     bulletpoints:
-      - "Maior Eficiência Colaborativa"
-      - "Acompanhamento Simplificado"
-      - "Fluxo de Trabalho Contínuo"
-      - "Transparência e Visibilidade"
+      - "Maior eficiência colaborativa entre equipes"
+      - "Acompanhamento simplificado de tarefas"
+      - "Fluxo de trabalho contínuo"
+      - "Transparência e visibilidade"
     description: "A integração do SISGPI com o GitHub não apenas agiliza o gerenciamento de projetos, como cria uma experiência mais fluida e produtiva. Ganhe tempo, mantenha o foco e alcance resultados superiores com essa poderosa combinação de ferramentas."
     button:
       enable: false

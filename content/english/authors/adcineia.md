@@ -1,5 +1,5 @@
 ---
-title: Drª. Adicineia Aparecida
+title: Profª. Drª. Adicineia Aparecida
 email: adicineia@ufs.br
 image: "/images/adcineia.jpeg"
 description: this is meta description

@@ -1,5 +1,5 @@
 ---
-title: Drª. Edilayne Meneses
+title: Profª. Drª. Edilayne Meneses
 email:
 image: "/images/edilayne.jpg"
 description: this is meta description

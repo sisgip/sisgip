@@ -1,5 +1,5 @@
 ---
-title: Drª. Debora Maria
+title: Profª. Drª. Debora Maria
 email: deboramcn@dcomp.ufs.br
 image: "/images/debora.jfif"
 description: this is meta description

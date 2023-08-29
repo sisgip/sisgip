@@ -1,5 +1,5 @@
 ---
-title: Dr. Ricardo Salgueiro
+title: Prof. Dr. Ricardo Salgueiro
 email:
 image: "/images/ricardo.jpg"
 description: this is meta description
