@@ -1,7 +1,7 @@
 ---
 title: Vinícius Moitinho
 email: vmoitinhoss@gmail.com
-image: "/images/vinicius.jpg"
+image: "/images/moitas.jpeg"
 category: desenvolvedor
 description: this is meta description
 social:

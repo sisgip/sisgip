@@ -35,7 +35,7 @@ features:
       link: "https://teams-front-dev.d18q8zw2q3xtji.amplifyapp.com/projects"
 
   - title: "Integração contínua com Github"
-    image: "/images/service-3.png"
+    image: "/images/integracao.gif"
     content: "Com o SISGPI você pode unificar os seus projetos com o Poder da Integração SISGPI-GitHub"
     bulletpoints:
       - "Maior Eficiência Colaborativa"

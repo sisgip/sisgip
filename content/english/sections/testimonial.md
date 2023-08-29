@@ -22,13 +22,13 @@ testimonials:
 
   - name: "Vinicius Moitinho"
     designation: "Desenvolvedor VueJS"
-    avatar: "/images/vinicius.jpg"
+    avatar: "/images/moitas.jpeg"
     content: "Aluno e Pesquisador. Graduando em Engenharia da Computação pela Universidade Federal de Sergipe e Mestrando pela mesma. Amante de tatuagens."
 
   - name: "Larissa Vitoria"
     designation: "Desenvolvedora NodeJS"
-    avatar: "/images/larissa.jfif"
-    content: "Analista de dados e Desenvolvedora Backend. Graduando em Engenharia da Computação pela Universidade Federal de Sergipe. Curte apreciar bons livros nas horas vagas."
+    avatar: "/images/larissa.jpeg"
+    content: "Analista de dados e Desenvolvedora Backend. Graduando em Engenharia da Computação pela Universidade Federal de Sergipe. Fascinada por ciência e arte, e apreciadora da natureza."
 
   - name: "Erivelton Santos"
     designation: "Desenvolvedor VueJS"

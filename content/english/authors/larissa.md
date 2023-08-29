@@ -1,7 +1,7 @@
 ---
 title: Larissa Vitoria
 email: larissa.vic2508@gmail.com
-image: "/images/larissa.jfif"
+image: "/images/larissa.jpeg"
 description: this is meta description
 category: desenvolvedor
 social:
