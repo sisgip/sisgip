@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://sisgpi.github.io/sisgpi/"
+baseURL = "https://sisgip.github.io/sisgip/"
 # Title of your website (required).
-title = "SISGPI - Sistema de Gestão de Projetos Integrados"
+title = "SISGIP - Sistema de Gestão Integrada de Projetos"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
