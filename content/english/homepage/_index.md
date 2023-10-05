@@ -32,7 +32,7 @@ features:
     button:
       enable: true
       label: "Conferir"
-      link: "https://teams-front-dev.d18q8zw2q3xtji.amplifyapp.com/projects"
+      link: "https://teams-front-dev.d26w2ldehatf11.amplifyapp.com/"
 
   - title: "Integração contínua com Github"
     image: "/images/integracao.gif"
