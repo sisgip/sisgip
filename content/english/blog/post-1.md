@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/public-github.png"
 categories: ["Aplicação", "Github"]
-author: "SISGPI"
+author: "SISGIP"
 tags: ["github", "projeto"]
 draft: false
 ---

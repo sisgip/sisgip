@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "SISGPI: Elevando a Gestão de Projetos a Novos Patamares"
+  title: "SISGIP: Elevando a Gestão de Projetos a Novos Patamares"
   content: "Potencializando habilidades e otimizando resultados de forma excepcional."
   image: "/images/banner.png"
   button:
@@ -11,9 +11,9 @@ banner:
 
 # Features
 features:
-  - title: "O que o SISGPI tem a oferecer"
+  - title: "O que o SISGIP tem a oferecer"
     image: "/images/kanban-gif4.gif"
-    content: "SISGPI é a solução completa para aprimorar a gestão dos seus projetos. O que o SISGPI oferece:"
+    content: "SISGIP é a solução completa para aprimorar a gestão dos seus projetos. O que o SISGIP oferece:"
     bulletpoints:
       - "Gerenciamento de projetos eficiente e integrado"
       - "Fluxo de trabalho visual com quadro Kanban"
@@ -36,13 +36,13 @@ features:
 
   - title: "Integração contínua com Github"
     image: "/images/integracao.gif"
-    content: "Com o SISGPI você pode unificar os seus projetos através da integração SISGPI-GitHub"
+    content: "Com o SISGIP você pode unificar os seus projetos através da integração SISGIP-GitHub"
     bulletpoints:
       - "Maior eficiência colaborativa entre equipes"
       - "Acompanhamento simplificado de tarefas"
       - "Fluxo de trabalho contínuo"
       - "Transparência e visibilidade"
-    description: "A integração do SISGPI com o GitHub não apenas agiliza o gerenciamento de projetos, como cria uma experiência mais fluida e produtiva. Ganhe tempo, mantenha o foco e alcance resultados superiores com essa poderosa combinação de ferramentas."
+    description: "A integração do SISGIP com o GitHub não apenas agiliza o gerenciamento de projetos, como cria uma experiência mais fluida e produtiva. Ganhe tempo, mantenha o foco e alcance resultados superiores com essa poderosa combinação de ferramentas."
     button:
       enable: false
       label: "Leia Mais"

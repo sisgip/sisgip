@@ -1,14 +1,14 @@
 ---
-title: "Olá, somos o SISGPI"
+title: "Olá, somos o SISGIP"
 meta_title: "Sobre"
 description: ""
-image: "/images/sispi-nobg.png"
+image: "/images/logo_dark_nobg.png"
 draft: false
 logo_dcomp: "/images/logo_dcomp.png"
 logo_ufs: "/images/ufs.png"
 ---
 
-O SISGPI - Sistema de Gestão de Projetos Integrados fornece uma solução web que agrega funcionalidades na área de gerenciamento de projetos e equipes, trazendo em uma só plataforma serviços que antes eram realizados de maneira dispersa.
+O SISGIP - Sistema de Gestão Integrada de Projetos fornece uma solução web que agrega funcionalidades na área de gerenciamento de projetos e equipes, trazendo em uma só plataforma serviços que antes eram realizados de maneira dispersa.
 
 O software atende a diversos tipos de usuários, indo do Desenvolvedor ao Scrum Master, e permite realizar algumas ações como criação e alocação de equipes, projetos, tarefas e sprints, tudo de forma ágil com apoio de quadros Kanban e integrado ao Github. Além disso, é possível realizar avaliações personalizadas e acompanhar evoluções e desempenhos individualmente.
 

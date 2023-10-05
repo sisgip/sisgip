@@ -1,9 +1,9 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/sispi-nobg.png"
+favicon = "images/logo_dark_nobg.png"
 # logo
-logo = "images/sispi-dark.png"
-logo_darkmode = "images/sispi-logo.png"
+logo = "images/logo_light_nobg.png"
+logo_darkmode = "images/logo_dark_nobg_app.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "SISGPI"
+logo_text = "SISGIP"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Copyright (c) 2023 - SISGPI"
+copyright = "Copyright (c) 2023 - SISGIP"
 # logo dcomp
 logo_dcomp = "images/logo_dcomp.png"
 logo_dcomp_darkmode = "images/logo_dcomp_dark.png"
