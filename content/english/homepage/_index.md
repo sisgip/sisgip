@@ -30,7 +30,7 @@ features:
     image: "/images/aval360.PNG"
     content: "Contamos com um diferencial no mercado, que é o Módulo de Avaliações, onde o desenvolvedor pode avaliar os membros da sua equipe, ser avaliado, acompanhar sua evolução e desempenho."
     button:
-      enable: true
+      enable: false
       label: "Conferir"
       link: "https://teams-front-dev.d26w2ldehatf11.amplifyapp.com/"
 
